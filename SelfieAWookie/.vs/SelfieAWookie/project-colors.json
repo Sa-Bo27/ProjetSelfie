@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a648dfe-0572-45c8-a657-0aecb305cf4f": {
+      "ProjectGuid": "5a648dfe-0572-45c8-a657-0aecb305cf4f",
+      "DisplayName": "SelfieAWookie",
+      "ColorIndex": 0
+    },
+    "4cedc682-e722-49f8-aeb8-8b6ac7896276": {
+      "ProjectGuid": "4cedc682-e722-49f8-aeb8-8b6ac7896276",
+      "DisplayName": "TestWebApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
