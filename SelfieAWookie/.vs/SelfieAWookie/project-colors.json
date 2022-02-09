@@ -10,6 +10,11 @@
       "ProjectGuid": "4cedc682-e722-49f8-aeb8-8b6ac7896276",
       "DisplayName": "TestWebApi",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 2
