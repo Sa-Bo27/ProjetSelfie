@@ -1,0 +1,15 @@
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\bin\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.deps.json
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\bin\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\bin\Debug\net6.0\ref\SelfieAWookies.Core.Selfies.Domain.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\bin\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.pdb
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.csproj.AssemblyReference.cache
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.AssemblyInfoInputs.cache
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.AssemblyInfo.cs
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\ref\SelfieAWookies.Core.Selfies.Domain.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.pdb
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\bin\Debug\net6.0\SelfieAWookie.Core.Framework.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\bin\Debug\net6.0\SelfieAWookie.Core.Framework.pdb
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookies.Core.Selfies.Domain\obj\Debug\net6.0\SelfieAWookies.Core.Selfies.Domain.csproj.CopyComplete

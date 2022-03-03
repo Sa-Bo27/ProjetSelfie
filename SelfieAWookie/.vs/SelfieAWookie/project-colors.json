@@ -15,7 +15,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "d225f537-e77a-46ce-9d26-7f125dc7b382": {
+      "ProjectGuid": "d225f537-e77a-46ce-9d26-7f125dc7b382",
+      "DisplayName": "SelfieAWookies.Core.Selfies.Domain",
+      "ColorIndex": 2
+    },
+    "3dd89a74-7f51-4b92-aeec-8615d3a60562": {
+      "ProjectGuid": "3dd89a74-7f51-4b92-aeec-8615d3a60562",
+      "DisplayName": "SelfieAWookies.Core.Selfies.Infrastructures",
+      "ColorIndex": 3
+    },
+    "ba472339-1f79-4c87-90c7-7c803a37c12a": {
+      "ProjectGuid": "ba472339-1f79-4c87-90c7-7c803a37c12a",
+      "DisplayName": "SelfieAWookie.Core.Framework",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

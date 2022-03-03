@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace SelfieAWookies.Core.Selfies.Domain
@@ -11,8 +12,10 @@ namespace SelfieAWookies.Core.Selfies.Domain
     /// </summary>
     public class Wookie
     {
-        public int WookieId { get; set; }
-        public string WookieName { get; set; }
-        public List<Selfie> Selfies { get; set; }
+        public int Id { get; set; }
+        public string? WookieName { get; set; }
+
+        [JsonIgnore]
+        public List<Selfie>? Selfies { get; set; }
     }
 }

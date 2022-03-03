@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "SelfieAWookie.Core.Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SelfieAWookie.Core.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SelfieAWookie.Core.Framework.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SelfieAWookie.Core.Framework/1.0.0": {
+      "type": "project",
+      "path": "../SelfieAWookie.Core.Framework/SelfieAWookie.Core.Framework.csproj",
+      "msbuildProject": "../SelfieAWookie.Core.Framework/SelfieAWookie.Core.Framework.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "SelfieAWookie.Core.Framework >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\MediaMonster\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj": {
+              "projectPath": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

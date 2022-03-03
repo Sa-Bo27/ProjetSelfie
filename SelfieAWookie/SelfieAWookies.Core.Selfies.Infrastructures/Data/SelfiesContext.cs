@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using SelfieAWookie.Core.Framework;
 using SelfieAWookies.Core.Selfies.Domain;
 using SelfieAWookies.Core.Selfies.Infrastructures.Data.TypeConfigurations;
 using System;
@@ -9,8 +10,16 @@ using System.Threading.Tasks;
 
 namespace SelfieAWookies.Core.Selfies.Infrastructures.Data
 {
-    public class SelfiesContext: DbContext
+    public class SelfiesContext: DbContext, IUnitOfWork
     {
+        public SelfiesContext(DbContextOptions options): base(options)
+        {
+
+        }
+        public SelfiesContext(): base()
+        {
+
+        }
         /// <summary>
         /// crée le contexte de la base de donnée (différentes tables etc.)
         /// </summary>
@@ -26,5 +35,7 @@ namespace SelfieAWookies.Core.Selfies.Infrastructures.Data
 
         public DbSet<Selfie> Selfies { get; set; }
         public DbSet<Wookie> Wookies { get; set; }
+
+        public DbSet<Picture> Pictures { get; set; }
     }
 }

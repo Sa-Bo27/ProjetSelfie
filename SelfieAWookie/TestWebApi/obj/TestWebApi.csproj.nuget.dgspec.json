@@ -4,6 +4,66 @@
     "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\TestWebApi\\TestWebApi.csproj": {}
   },
   "projects": {
+    "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj",
+        "projectName": "SelfieAWookie.Core.Framework",
+        "projectPath": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj",
+        "packagesPath": "C:\\Users\\MediaMonster\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MediaMonster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookies.Core.Selfies.Domain\\SelfieAWookies.Core.Selfies.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -33,7 +93,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj": {
+                "projectPath": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -94,6 +158,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj": {
+                "projectPath": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookie.Core.Framework\\SelfieAWookie.Core.Framework.csproj"
+              },
               "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookies.Core.Selfies.Domain\\SelfieAWookies.Core.Selfies.Domain.csproj": {
                 "projectPath": "C:\\Users\\MediaMonster\\Desktop\\ProjetSelfie\\SelfieAWookie\\SelfieAWookies.Core.Selfies.Domain\\SelfieAWookies.Core.Selfies.Domain.csproj"
               }
@@ -111,6 +178,20 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
@@ -189,6 +270,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -265,6 +362,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
