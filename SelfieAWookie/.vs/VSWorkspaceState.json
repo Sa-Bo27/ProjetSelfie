@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestWebApi"
   ],
-  "SelectedNode": "\\SelfieAWookie.sln",
+  "SelectedNode": "\\TestWebApi\\SelfieControllerUnitTest.cs",
   "PreviewInSolutionExplorer": false
 }

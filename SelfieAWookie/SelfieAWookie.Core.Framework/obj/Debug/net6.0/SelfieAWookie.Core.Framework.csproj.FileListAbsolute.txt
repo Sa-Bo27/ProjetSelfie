@@ -2,7 +2,6 @@ C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Fram
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\bin\Debug\net6.0\SelfieAWookie.Core.Framework.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\bin\Debug\net6.0\ref\SelfieAWookie.Core.Framework.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\bin\Debug\net6.0\SelfieAWookie.Core.Framework.pdb
-C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.csproj.AssemblyReference.cache
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.AssemblyInfoInputs.cache
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Fram
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\ref\SelfieAWookie.Core.Framework.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.pdb
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie.Core.Framework\obj\Debug\net6.0\SelfieAWookie.Core.Framework.csproj.AssemblyReference.cache

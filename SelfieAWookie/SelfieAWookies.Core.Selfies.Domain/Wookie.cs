@@ -13,9 +13,9 @@ namespace SelfieAWookies.Core.Selfies.Domain
     public class Wookie
     {
         public int Id { get; set; }
-        public string? WookieName { get; set; }
+        public string WookieName { get; set; }
 
         [JsonIgnore]
-        public List<Selfie>? Selfies { get; set; }
+        public List<Selfie> Selfies { get; set; }
     }
 }

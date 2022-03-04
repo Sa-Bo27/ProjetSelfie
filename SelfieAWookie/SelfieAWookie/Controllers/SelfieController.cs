@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SelfieAWookie.Application.DTO_s;
 using SelfieAWookies.Core.Selfies.Domain;
@@ -11,6 +13,7 @@ namespace SelfieAWookie.Controllers
     /// Objet qui représente le Controller, permet des requetes Http pour obtenir différente réponse a renvoyé a la vue
     /// </summary>
     [Route("api/v1/[controller]")]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     [ApiController]
     public class SelfieController : ControllerBase
     {

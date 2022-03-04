@@ -260,3 +260,8 @@ C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\ne
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\Moq.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\SelfieAWookie.Core.Framework.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\SelfieAWookie.Core.Framework.pdb
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\TestWebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

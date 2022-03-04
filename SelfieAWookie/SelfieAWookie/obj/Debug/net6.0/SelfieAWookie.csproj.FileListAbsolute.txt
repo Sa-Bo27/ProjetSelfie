@@ -92,3 +92,12 @@ C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\SelfieAWookies.Core.Selfies.Infrastructures.pdb
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\SelfieAWookie.Core.Framework.dll
 C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\SelfieAWookie.Core.Framework.pdb
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\SelfieAWookie.staticwebassets.runtime.json
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\MediaMonster\Desktop\ProjetSelfie\SelfieAWookie\SelfieAWookie\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
